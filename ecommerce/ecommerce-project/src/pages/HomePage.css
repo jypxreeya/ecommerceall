@@ -104,17 +104,20 @@
   display: flex;
   align-items: center;
   margin-bottom: 10px;
+  
 }
 
 .home-page .product-rating-stars {
   width: 100px;
   margin-right: 6px;
+  
 }
 
 .home-page .product-rating-count {
-  color: rgb(25, 135, 84);
+  color: black;
   cursor: auto;
   margin-top: 3px;
+  
 }
 
 .home-page .product-price {
@@ -131,7 +134,7 @@
 }
 
 .home-page .added-to-cart {
-  color: rgb(25, 135, 84);
+  color: black;
   font-size: 16px;
 
   display: flex;
@@ -154,4 +157,6 @@
   padding: 8px;
   height: 34px;
   margin-top: 1px;
+  background-color: pink;
+  
 }
